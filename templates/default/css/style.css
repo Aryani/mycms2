@@ -1,5 +1,6 @@
 .wrapper {
 	width:1300px;
+	font-family: Cambria Math;
 }
 .header {
 	border:1px solid gold;
@@ -9,6 +10,7 @@
 	font-size:35px;
 	padding:35px 10px;
 	text-align: center;
+	border-radius: 20px;
 }
 .sidebar {
 	width: 200px;
@@ -16,6 +18,7 @@
 	padding:5px;
 	border: 1px solid gold;
 	overflow: hidden;
+	border-radius: 20px;
 }
 .content {
 	width:1000px;
@@ -28,6 +31,7 @@
 	background:pink;
 	color:grey;
 	padding:21px 3px;
+	border-radius: 20px;
 }
 
 .clear {
