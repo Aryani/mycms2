@@ -1,31 +1,32 @@
 .wrapper {
-	width:900px;
+	width:1300px;
 }
 .header {
-	border:1px solid grey;
-	background-color:blue;
+	border:1px solid gold;
+	background-color:pink;
 	color:white;
 	font-weight:bold;
 	font-size:35px;
 	padding:35px 10px;
+	text-align: center;
 }
 .sidebar {
-	width: 170px;
+	width: 200px;
 	float:left;
 	padding:5px;
-	border: 1px solid black;
+	border: 1px solid gold;
 	overflow: hidden;
 }
 .content {
-	width:706px;
+	width:1000px;
 	float:right;
 	padding:5px;
 }
 
 .footer {
 	text-align:center;
-	background:blue;
-	color:yellow;
+	background:pink;
+	color:grey;
 	padding:21px 3px;
 }
 
